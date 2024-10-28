@@ -1,4 +1,4 @@
-# TO-DO-LIST-APP
+# TO-DO-LIST-APP using Python
 
 The primary objective of this project is to design and develop a simple To-Do List application using Python's Tkinter library. The application aims to help users efficiently manage their tasks by providing basic functionalities, such as adding, editing, and deleting tasks. 
 
